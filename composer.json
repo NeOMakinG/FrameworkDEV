@@ -47,11 +47,11 @@
         }
     },
     "extra": {
-        "symfony-app-dir": "app",
-        "symfony-web-dir": "web",
+        "symfony-app-dir": "apps/main",
+        "symfony-web-dir": "web/main",
         "symfony-assets-install": "relative",
         "incenteev-parameters": {
-            "file": "app/config/parameters.yml"
+            "file": "apps/config/parameters.yml"
         },
         "branch-alias": {
             "dev-master": "2.8-dev"

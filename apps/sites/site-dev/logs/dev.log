@@ -1,0 +1,6 @@
+[2016-09-01 11:29:34] php.DEBUG: unlink(web/bundles/framework): No such file or directory {"type":2,"file":"/var/www/FrameworkDEV/vendor/symfony/symfony/src/Symfony/Component/Filesystem/Filesystem.php","line":178,"level":28928} []
+[2016-09-01 11:32:19] request.INFO: Matched route "homepage". {"route_parameters":{"_controller":"AppBundle\\Controller\\DefaultController::indexAction","_route":"homepage"},"request_uri":"http://csgo-duel.com/FrameworkDEV/web/app_dev.php/"} []
+[2016-09-01 11:32:19] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
+[2016-09-01 11:32:20] request.INFO: Matched route "_wdt". {"route_parameters":{"_controller":"web_profiler.controller.profiler:toolbarAction","token":"8add16","_route":"_wdt"},"request_uri":"http://csgo-duel.com/FrameworkDEV/web/app_dev.php/_wdt/8add16"} []
+[2016-09-01 17:04:41] request.INFO: Matched route "homepage". {"route_parameters":{"_controller":"AppBundle\\Controller\\DefaultController::indexAction","_route":"homepage"},"request_uri":"http://csgo-duel.com/FrameworkDEV/web/sites/site-dev/app_dev.php/"} []
+[2016-09-01 17:04:42] request.INFO: Matched route "_wdt". {"route_parameters":{"_controller":"web_profiler.controller.profiler:toolbarAction","token":"6493ea","_route":"_wdt"},"request_uri":"http://csgo-duel.com/FrameworkDEV/web/sites/site-dev/app_dev.php/_wdt/6493ea"} []
